@@ -1,0 +1,22 @@
+.container{
+    
+}
+.c1{
+    text-align: right;
+}
+.c4{
+    position:relative;
+    left:46px;  
+    
+}
+.c6{
+    text-align: right;
+}
+.c8{
+    position: relative;
+    left: 30px;
+}
+fieldset{
+    width: 850px;
+    height: 500px;
+}
